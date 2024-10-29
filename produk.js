@@ -1,27 +1,25 @@
 // Data Produk
 const productData = [
   {
-    nama: "iPhone 13",
-    harga: 15000000,
-    kategori: "Smartphone",
-    deskripsi: "iPhone 13 dengan performa tinggi dan kamera canggih.",
-    gambar:
-      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-mini-select-2021",
+    nama: "Carrier Arei Kinabalu 70L",
+    harga: 1395000,
+    kategori: "Tas Gunung",
+    deskripsi: "Tas Gunung / Carrier Premium Kinabalu 70+5L Liter Arei Outdoorgear",
+    gambar: "Carrier Arei.jpeg",
   },
   {
-    nama: "Samsung Galaxy S21",
-    harga: 13000000,
-    kategori: "Smartphone",
-    deskripsi: "Smartphone flagship dari Samsung dengan layar AMOLED.",
-    gambar: "https://image.samsung.com/us/smartphones/galaxy-s21",
+    nama: "Sleeping Bag Arei",
+    harga: 379000,
+    kategori: "Kantong Tidur",
+    deskripsi: "Kantong Tidur / Sleeping Bag Kerinci Premium Arei Outdoorgear",
+    gambar: "Sleeping Bag Arei.jpeg",
   },
   {
-    nama: "Xiaomi Mi 11",
-    harga: 8000000,
-    kategori: "Smartphone",
-    deskripsi: "Xiaomi Mi 11 dengan Snapdragon 888 dan layar 120Hz.",
-    gambar:
-      "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/Xiaomi-Mi11",
+    nama: "Tumbler Arei",
+    harga: 175000,
+    kategori: "Botol Minum",
+    deskripsi: "Botol Minum Borraccia H Tumbler Arei Outdoorgear",
+    gambar:"Tumbler Arei.jpeg",
   },
 ];
 
