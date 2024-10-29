@@ -2,24 +2,24 @@
 const salesData = [
   {
     no: 1,
-    pelanggan: "Raihan",
-    produk: "iPhone 13",
+    pelanggan: "Ripqi Alamsyah",
+    produk: "Carrier",
     jumlah: 1,
-    harga: 15000000,
+    harga: 1395000,
   },
   {
     no: 2,
-    pelanggan: "Budi",
-    produk: "Samsung Galaxy S21",
+    pelanggan: "Zahra",
+    produk: "Sleeping Bag",
     jumlah: 2,
-    harga: 25000000,
+    harga: 379000,
   },
   {
     no: 3,
-    pelanggan: "Ani",
-    produk: "Xiaomi Mi 11",
+    pelanggan: "Iqiw",
+    produk: "Tumbler",
     jumlah: 1,
-    harga: 7000000,
+    harga: 175000,
   },
 ];
 
